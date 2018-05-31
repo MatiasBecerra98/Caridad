@@ -1,0 +1,11 @@
+C:\Users\CETECOM\source\repos\Consola\Consola\bin\Debug\Consola.exe.config
+C:\Users\CETECOM\source\repos\Consola\Consola\bin\Debug\Consola.exe
+C:\Users\CETECOM\source\repos\Consola\Consola\bin\Debug\Consola.pdb
+C:\Users\CETECOM\source\repos\Consola\Consola\bin\Debug\Google.Protobuf.dll
+C:\Users\CETECOM\source\repos\Consola\Consola\bin\Debug\MySql.Data.dll
+C:\Users\CETECOM\source\repos\Consola\Consola\bin\Debug\Google.Protobuf.xml
+C:\Users\CETECOM\source\repos\Consola\Consola\bin\Debug\MySql.Data.xml
+C:\Users\CETECOM\source\repos\Consola\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+C:\Users\CETECOM\source\repos\Consola\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\CETECOM\source\repos\Consola\Consola\obj\Debug\Consola.exe
+C:\Users\CETECOM\source\repos\Consola\Consola\obj\Debug\Consola.pdb
